@@ -3,7 +3,7 @@ Mental health analysis using r/depression data from 2020 to 2024
 
 Data Extraction: 
 Here I have used Pushshift dumps of r/depression. This is available as a zst file and I have used the default csv conversion script provided by author. 
-<Script name> - Script to convert zst to csv. 
+zst_to-csv.py - Script to convert zst to csv. 
 
 Data Filtration:
 
